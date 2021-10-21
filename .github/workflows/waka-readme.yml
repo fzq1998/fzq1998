@@ -1,7 +1,10 @@
-name: Waka Readme
+name: WakaTime Readme
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - master
+  # workflow_dispatch:
   schedule:
     # Runs at 4pm UTC, 0am at Beijing
     - cron: "0 16 * * *"
