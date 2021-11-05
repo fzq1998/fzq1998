@@ -23,3 +23,6 @@ Go           2 hrs 25 mins   ██▓░░░░░░░░░░░░░░
 JavaScript   1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 ```
 <!--END_SECTION:waka-->
+
+
+[![handsomeFu's github stats](https://github-readme-stats.vercel.app/api?username=MrFu1998&show_icons=true&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
