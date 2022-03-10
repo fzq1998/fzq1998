@@ -30,4 +30,5 @@ Java             8 mins          ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-[![handsomeFu's github stats](https://github-readme-stats.vercel.app/api?username=MrFu1998&show_icons=true&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/MrFu1998/MrFu1998/blob/master/footer.gif" />
+
