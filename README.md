@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
