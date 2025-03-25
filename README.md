@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     38 mins         ██████████████▓░░░░░░░░░░   58.38 %
-Vue.js         17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
-JSON           5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-TypeScript     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
