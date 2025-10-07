@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       15 mins         ████████████████████▒░░░░   80.76 %
-TypeScript   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
