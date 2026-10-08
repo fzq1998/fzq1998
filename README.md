@@ -16,7 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue          1 hr 43 mins          ███████████▓░░░░░░░░░░░░░   46.92 %
+Text         37 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+Markdown     31 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+JavaScript   27 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+JSON         16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
 ```
 
 <!--END_SECTION:waka-->
